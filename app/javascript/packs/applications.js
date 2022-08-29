@@ -1,2 +1,2 @@
-import 'bootstrap'
-import 'css/styles'
+import './bootstrap'
+import './css/styles'
