@@ -1,2 +1,3 @@
 import './bootstrap'
-import './css/styles'
+import './css/styles.scss'
+//= require_tree .

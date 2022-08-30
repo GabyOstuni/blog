@@ -2,6 +2,7 @@
 // import "@hotwired/turbo-rails"
 // import "controllers"
 import "trix"
-import "./bootstrap"
+import "bootstrap"
 import "./css/styles.scss"
 import "@rails/actiontext"
+//= require_tree .
